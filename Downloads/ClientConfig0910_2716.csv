@@ -1,0 +1,2 @@
+ClientId,ClientName,ClientDBConnectionStringEncrypted,ClientDatabaseName,PrimaryContactPersonName,PrimaryContactPhone,PrimaryContactEmail,PrimaryContactFax,IsActive,CMGCreatedBy,CMGCreatedDate,CMGModifiedBy,CMGModifiedDate,ClientTypeID
+1222,ClientNameHNWLV,null,null,ClientFirstClientLast,9945812649,sample@test.com,9945862649,1,null,2020-10-09 05:27:02.737,null,null,null
